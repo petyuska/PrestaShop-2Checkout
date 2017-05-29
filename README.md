@@ -26,3 +26,7 @@ Version: 0.8.0
 
 _This is a fork of the original module developed by Alpha Media & donated by 2flowers - www.2flowers.com._
 _Updated to work with Prestashop 1.4.x and 1.5.x
+
+Version: 1.2
+_forked from craigchristenson/PrestaShop-2Checkout
+_Added Sandbox option
